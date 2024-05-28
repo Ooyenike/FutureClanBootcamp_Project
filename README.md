@@ -19,3 +19,13 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 
 ```
+![](ooye.jpg)
+
+|Name|Employee_ID|Gender|Occupation|
+|----|-----------|------|----------|
+|Odunola|1001|Female|Data Analyst|
+|Oyenike|1002|Female|Data Engineer|
+|Folashade|1003|Female|Banker|
+|Daniel|1004|Male|Doctor|
+
+![](owolabi-oyenike..jpg)
