@@ -10,3 +10,12 @@
 - Microsoft Power BI
 - Python
 - SQL
+  
+---
+
+```
+Google Query Sheet
+SELECT * FROM TABLE 1
+WHERE CONDITION = MET
+
+```
